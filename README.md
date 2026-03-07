@@ -2,7 +2,7 @@
 Aspiring Data Analyst | SQL • Python • Power BI • Excel | Turning data into actionable insights<br>
 
 
-## 🌐 Socials:
+## 🌐 Connect with me :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-a-63050a3b4) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhinav.aj1028@gmail.com)
 
