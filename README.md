@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Aspiring Data Analyst | SQL • Python • Power BI • Excel | Turning data into actionable insights<br>
 
 
